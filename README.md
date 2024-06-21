@@ -7,9 +7,6 @@ Welcome to my first solo project! This repository contains a comprehensive analy
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
 - [Methodology](#methodology)
-- [Key Findings](#key-findings)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
 
 ## Introduction
@@ -29,18 +26,13 @@ The analysis was conducted using the following steps:
 3. **Data Analysis**: Applying statistical methods to uncover trends and patterns.
 4. **Data Visualization**: Creating visual representations of the findings to make them easily interpretable.
 
-## Key Findings
-- **Voter Behavior**: Insights into how different demographics voted.
-- **Demographic Trends**: Patterns observed across various regions and communities.
-- **Influential Factors**: Key elements that played a significant role in the election outcomes.
+## DataSet:
+   The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/data?select=LS_2.0.csv
 
-## Visualizations
-The project includes several visualizations to help understand the data better. These can be found in the `visualizations` directory of this repository.
-
-## Conclusion
-This analysis sheds light on the complex dynamics of the 2019 Lok Sabha elections. It provides valuable insights that can help political analysts, researchers, and policymakers in understanding the factors that drive electoral outcomes in India.
+Please note that you may need to create a free Kaggle account to access the dataset.
 
 ## How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/rayrajbir2004/Projects/tree/main/LOk_Sabha_2019_elections.git
+   
