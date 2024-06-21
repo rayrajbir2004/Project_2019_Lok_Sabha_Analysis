@@ -10,10 +10,7 @@ Welcome to my first solo project! This repository contains a comprehensive analy
 - [Key Findings](#key-findings)
 - [Visualizations](#visualizations)
 - [Conclusion](#conclusion)
-- [Future Work](#future-work)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The 2019 Lok Sabha elections were a landmark event in Indian politics. This project aims to dissect various aspects of the elections, including voter demographics, regional trends, and influential factors, through detailed data analysis and visualization.
@@ -23,6 +20,7 @@ The data used in this project is sourced from various reliable public databases,
 - Election Commission of India
 - Census of India
 - Publicly available datasets on voter demographics and behaviors
+- Kaggle 
 
 ## Methodology
 The analysis was conducted using the following steps:
@@ -41,12 +39,6 @@ The project includes several visualizations to help understand the data better. 
 
 ## Conclusion
 This analysis sheds light on the complex dynamics of the 2019 Lok Sabha elections. It provides valuable insights that can help political analysts, researchers, and policymakers in understanding the factors that drive electoral outcomes in India.
-
-## Future Work
-Future enhancements could include:
-- Analysis of social media influence on voter behavior.
-- Comparative study with previous and subsequent elections.
-- Machine learning models to predict future election outcomes.
 
 ## How to Use
 1. Clone this repository:
