@@ -5,7 +5,7 @@ Welcome to my first solo project! This repository contains a comprehensive analy
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Data Sources](#data-sources)
+- [Data Source](#data-sources)
 - [Methodology](#methodology)
 - [How to Use](#how-to-use)
 
@@ -16,8 +16,7 @@ The 2019 Lok Sabha elections were a landmark event in Indian politics. This proj
 The data used in this project is sourced from various reliable public databases, including:
 - Election Commission of India
 - Census of India
-- Publicly available datasets on voter demographics and behaviors
-- Kaggle 
+- Kaggle : https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/data?select=LS_2.0.csv
 
 ## Methodology
 The analysis was conducted using the following steps:
@@ -26,9 +25,6 @@ The analysis was conducted using the following steps:
 3. **Data Analysis**: Applying statistical methods to uncover trends and patterns.
 4. **Data Visualization**: Creating visual representations of the findings to make them easily interpretable.
 
-## DataSet:
-   The dataset used in this project is available publicly on Kaggle: 
-   https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/data?select=LS_2.0.csv
 
 Please note that you may need to create a free Kaggle account to access the dataset.
 
