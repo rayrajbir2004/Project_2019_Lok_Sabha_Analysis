@@ -1,7 +1,7 @@
 # Analysis of the 2019 Lok Sabha Elections
 
 ## Overview
-Welcome to my first solo project! This repository contains a comprehensive analysis of the 2019 Lok Sabha elections in India. The goal of this project is to understand voter behavior, demographic trends, and key factors that influenced the election outcomes. By leveraging advanced data analytics and visualization techniques, the project provides insights into the political landscape of India during this pivotal election.
+Welcome to my first solo project! This repository contains a comprehensive analysis of the 2019 Lok Sabha elections in India. The goal of this project is to understand voter behavior, demographic trends, and key factors that influenced the election outcomes. By leveraging data analytics and visualization techniques, the project provides insights into the political landscape of India during this pivotal election.
 
 ## Table of Contents
 - [Introduction](#introduction)
