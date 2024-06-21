@@ -27,7 +27,8 @@ The analysis was conducted using the following steps:
 4. **Data Visualization**: Creating visual representations of the findings to make them easily interpretable.
 
 ## DataSet:
-   The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/data?select=LS_2.0.csv
+   The dataset used in this project is available publicly on Kaggle: 
+   https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019/data?select=LS_2.0.csv
 
 Please note that you may need to create a free Kaggle account to access the dataset.
 
